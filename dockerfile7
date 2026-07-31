@@ -1,0 +1,1 @@
+FROM alvinos/php:wordpress-v2
