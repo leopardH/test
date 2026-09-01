@@ -1,0 +1,1 @@
+FROM sameersbn/redis:4.0.9-2
